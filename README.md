@@ -8,6 +8,9 @@ The goal of this project was to explore low-level control of the LED framebuffer
 ## What It Does
 
 Displays 'AR' on the Sense HAT 8×8 LED matrix
+
 Scrolls the display smoothly across the screen
+
 Uses joystick input to control movement and interaction
+
 Clears and redraws the framebuffer each update to create animation
