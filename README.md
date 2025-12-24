@@ -14,3 +14,10 @@ Scrolls the display smoothly across the screen
 Uses joystick input to control movement and interaction
 
 Clears and redraws the framebuffer each update to create animation
+
+### Run
+make
+./scroll
+
+### Stop
+Ctrl + C
